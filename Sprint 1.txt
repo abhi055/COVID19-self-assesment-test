@@ -1,0 +1,8 @@
+1 Quick Over view project requirements 
+2 paper prototype
+3 setup environment 
+4 Solution generation for UI
+5 Home Page Complete creation 
+6 testing
+7 add mid pics and slider 
+8 footer and Buttons implements

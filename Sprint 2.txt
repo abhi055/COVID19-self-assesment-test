@@ -1,0 +1,11 @@
+Sprint 2
+
+1.	text decoration (all webpages)
+2.	setup environment with  Python (flask )
+3.	Incremental Testing/ find best solution for the system 
+4.	FAQ Page and subscription button with data base 
+5.	Create  and deploy Self Assignment form and result page
+6.	Write Content of coronavirus
+7.	black box Testing
+8.	web pages contact us, live chat support
+9.	Create a "Scroll To Top" 
