@@ -22,6 +22,7 @@ health specialist and well experience doctors to find exact true figure out the 
 be deployed systems in hospitals. It also helps among large scales patients.
 
 The Idea
+
 • The idea is to stop the transmission by prioritizing tests and hence detecting the
 cases quickly.
 • Data can be collected on the symptoms of COVID-19.
